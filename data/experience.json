@@ -1,0 +1,20 @@
+[
+    {
+        "role":"DevOps Engineer",
+        "company":"Booz Allen Hamilton, INc",
+        "summary":"Experienced supporting DoD clients onsite, offsite, and 24/7 on-call.\n- Prod\n- Pre-Prod\n- Testing/Development\n- Staging\n- Real World Environment",
+        "range":"June 2017 - Present"
+    },
+    {
+        "role":"Integration Engineer",
+        "company":"Lockheed Martin",
+        "summary":"Expedited the synergies of collaborative agile tooling.",
+        "range":"April 2017 - July 2017"
+    },
+    {
+        "role":"Linux/Windows Systems Administrator",
+        "company":"Leidos",
+        "summary":"Implemented continuous devops pipelines automationing",
+        "range":"June 2013 - April 2017"
+    }
+]

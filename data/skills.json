@@ -1,0 +1,32 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","Python", "Jhython","git","subversion","linux","bash","php","jquery","javascript","nodejs","redhat","Windows","nodeJS", "ansible"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","NGINX","MySQL","Wordpress"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"},
+        "MongoDB",
+        {"name":"Apache Spark"}
+      ]
+  },
+  {
+    "grouping":"VMs, Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Oracle Virtualbox","link":"https://virtualbox.ord"},
+          {"name":"Oracle Cloud Infraustructure","link":"https://oracle.com/cloud"}
+      ]
+  }
+]

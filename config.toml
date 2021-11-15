@@ -1,0 +1,62 @@
+title = "Brice Jacobs"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+
+[params]
+address = "Brice Jacobs"
+email = "Jacobs_Brice@bah.com"
+favicon = "/favicon.ico"
+firstName = "Brice"
+lastName = "Jacobs"
+phone = "Request per email"
+profileImage = "img/profile3.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showPublications = false
+showQr = true
+showSkills = true
+
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/bjacobs189/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/bmjXDev/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://gitlab.com/bmjXDev/"
+name = "GitLab"
+
+[[params.handles]]
+link = "https://bitbucket.org/"
+name = "Bitbucket"
+
+[[params.handles]]
+link = "https://stackoverflow.com/"
+name = "Stack Overflow"
+
+[[params.handles]]
+link = "https://keybase.io/"
+name = "Keybase"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
